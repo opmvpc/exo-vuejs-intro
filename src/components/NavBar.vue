@@ -10,7 +10,11 @@ const links = [
     {
         label: "About",
         lien: "/about"
-    }
+    },
+    {
+        label: "Contact",
+        lien: "/contact"
+    },
 ]
 
 const isOpen = ref(false)
